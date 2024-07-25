@@ -1,0 +1,10 @@
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: none;
+}
+.pagination{
+  display: flex;
+  justify-content: space-between;
+}
